@@ -11,14 +11,14 @@ First I created a pivot table using the Launch Date and Outcomes fields. I filte
 
 I then created a line chart to visually represent the pivot table. The chart makes the Outcome, mentioned above, very clear.
 
-![Theater_Outcomes_vs_Launch](path/to/https://github.com/JessicaLacey/kickstarter-challenge/blob/main/Theater_Outcomes_vs_Launch.png)
+https://github.com/JessicaLacey/kickstarter-challenge/blob/main/Theater_Outcomes_vs_Launch.png
 
 ### Analysis of Outcomes Based on Goals
 I created a table that breaks down the goal amount into several categories. This makes it easier to read and understand the data. From this I can see the majority of the campaign goals were under 10000.
 
 From this table I created another line chart based on the goal percentage. The chart allows you to see that the higher the goal, the less successful campaigns there are. 
 
-![Outcomes_vs_Goals](path/to/https://github.com/JessicaLacey/kickstarter-challenge/blob/main/Outcomes_vs_Goals.png)
+https://github.com/JessicaLacey/kickstarter-challenge/blob/main/Outcomes_vs_Goals.png
 
 ### Challenges and Difficulties Encountered
 The biggest challenge I faced was the COUNTIFS formula. There are so many parts to this and if one thing is off, it will mess up all of the data. It was just trial and error until I figured out the correct formula.
